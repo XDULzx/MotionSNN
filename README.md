@@ -21,9 +21,7 @@ datapath/
 │ └── testlist.txt # Sample indices for test set  
 
 
-Download link: Data is uploading (Note: Due to the large size of .pt event files, the uploaded version is in .pbs2 format. )
-
-<!-- Download link: [GoPro Dataset](https://drive.google.com/drive/folders/1rJs8qyTd6EDFYTDSA0N4pv65hxlDFoNf?usp=sharing) (Note: Due to the large size of .pt event files, the uploaded version is in .pbs2 format. ) -->
+Download link: [GoPro Dataset](https://pan.baidu.com/s/1-_W2IPmX2-2qghepKKYRJg?), password is "rra6". (Note: Due to the large size of .pt event files, the uploaded version is in .pbs2 format. )
 
 The pre-trained model on GoPro dataset can be found here [Pre-trained Model](https://drive.google.com/drive/folders/1Lcx-9dQnw5NXOK4gdLw1YLCfBdipHob5?usp=sharing)
 
